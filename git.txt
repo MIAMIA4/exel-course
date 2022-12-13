@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "initial"
+git remote add origin https://github.com/MIAMIA4/exel-course.git
+git push --set-upstream origin master
+
+
